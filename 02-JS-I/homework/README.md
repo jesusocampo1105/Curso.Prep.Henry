@@ -5,10 +5,15 @@
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
 	* Variables
+	//RTA: Variable es un espacio en memoria que se usa para guardar algo (ya sea un numero, una letra o un boolean)
 	* Strings
+	//RTA: Strings son tipos de datos donde alojamos letras y vocales de esta manera: "Hola soy Juan"
 	* Funciones (argumentos, `return`)
+	//RTA: Las funciones son lineas de codigo que son reutilizables para optimizar codigo
 	* Declaraciones `if`
+	//RTA: Declaracion son
 	* Valores booleanos (`true`, `false`)
+	//RTA: Los booleanos son tipos de datos que nos arroja solamente True (Osea verdadero) o False (Falso)
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
